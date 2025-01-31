@@ -38,3 +38,5 @@ plt.show
 
 
 #  week2
+ improvisation done for the code
+ classified the data and tabulated
