@@ -1,5 +1,10 @@
+# Project Description
+Plastic pollution is a growing concern globally, and effective waste segregation is critical to tackling this issue. This project employs a CNN model to classify plastic waste into distinct categories, facilitating automated waste management.
+# Dataset
+The dataset used for this project is the Waste Classification Data by Sashaank Sekar. It contains a total of 25,077 labeled images, divided into two categories: Organic and Recyclable. This dataset is designed to facilitate waste classification tasks using machine learning techniques
 # week1
 Develop an AI-powered waste ﻿classification model using image processing and machine learning techniques . Accurately categorize waste materials based on visual images using the datasset
+# datasetlink
 https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
 # source code
@@ -38,5 +43,4 @@ plt.show
 
 
 #  week2
- improvisation done for the code
- classified the data and tabulated
+ Model Traning ,Evaluation and Pridiction
