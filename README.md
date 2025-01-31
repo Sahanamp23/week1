@@ -35,3 +35,6 @@ data.shape
 colors=['#a0d157','#c48bb8']
 plt.pie(data.label.value_counts(), labels=['Organic', 'Recyclabel'] ,autopct='%0.2f%%', colors=colors, startangle=90, explode=[0.005,0.005])
 plt.show
+
+
+#week2
