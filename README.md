@@ -37,4 +37,4 @@ plt.pie(data.label.value_counts(), labels=['Organic', 'Recyclabel'] ,autopct='%0
 plt.show
 
 
-#week2
+#  week2
