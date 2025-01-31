@@ -41,6 +41,7 @@ colors=['#a0d157','#c48bb8']
 plt.pie(data.label.value_counts(), labels=['Organic', 'Recyclabel'] ,autopct='%0.2f%%', colors=colors, startangle=90, explode=[0.005,0.005])
 plt.show
 
-
 #  week2
  Model Traning ,Evaluation and Pridiction
+
+ The model performs slightly better for Organic waste but can sometimes misclassify Recyclable waste Overall, the model is highly effective and can be used for real-world waste classification tasks with further refinements!
