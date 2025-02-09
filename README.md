@@ -45,3 +45,5 @@ plt.show
  Model Traning ,Evaluation and Pridiction
 
  The model performs slightly better for Organic waste but can sometimes misclassify Recyclable waste Overall, the model is highly effective and can be used for real-world waste classification tasks with further refinements!
+ # week3
+ Developed a streamlit web application for real time waste classification 
